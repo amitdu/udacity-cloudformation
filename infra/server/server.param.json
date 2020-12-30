@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udacity-02"
+  },
+  {
+    "ParameterKey": "AmiID",
+    "ParameterValue": "ami-0dd9f0e7df0f0a138"
+  },
+  {
+    "ParameterKey": "LBSecurityGroupName",
+    "ParameterValue": "LoadbalancerUdagram-SecurityGroup"
+  },
+  {
+    "ParameterKey": "AppSecurityGroupName",
+    "ParameterValue": "Udagram-SecurityGroup"
+  },
+  {
+    "ParameterKey": "WebServersInstanceType",
+    "ParameterValue": "t3.medium"
+  }
+]
